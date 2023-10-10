@@ -1,6 +1,7 @@
 # Portfolio Application
 # Link
 https://saloni-225.github.io/portfolio_my
+In every page there is yellow button click on that and navigate to different sections.
 
 # Screen Shot
 ## First Screen.
