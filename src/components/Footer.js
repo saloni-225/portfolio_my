@@ -24,7 +24,7 @@ const Footer = () => {
                 </div>
                 <div className="right">
                     <h4>About Myself</h4>
-                    <p>My name is Saloni Kumari, and I am a B.Tech student in the CSE-AIML branch at Techno India University. I have a strong foundation in DBMS and a keen interest in AIML. Additionally, I possess frontend development skills.</p>
+                    <p>My name is Saloni Kumari, and I am a B.Tech student in the CSE-AIML branch at Techno India University. I have a strong foundation in DBMS and a keen interest in AIML. Additionally, I possess frontend development skills like HTML, CSS, JavaScript and Framework like Bootstrap,jQuery and React</p>
                     <div className="social">
                         <a href="https://www.linkedin.com/in/saloni-kumari-1255111bb/">
                             <FaLinkedin size={20} style={{ color: "#fff", marginRight: "2rem" }} />
