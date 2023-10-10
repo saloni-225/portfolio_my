@@ -13,7 +13,7 @@ https://saloni-225.github.io/portfolio_my
 ![image](https://github.com/saloni-225/portfolio_my/assets/81464325/14223d3f-09a5-4cf4-818a-7cf63f158fa8)
 
 ## Project
-![image](https://github.com/saloni-225/portfolio_my/assets/81464325/8f1ac2d4-0691-4ea3-bcf4-cf6625d05652)
+![image](https://github.com/saloni-225/portfolio_my/assets/81464325/2f8c1843-4d13-4562-abac-e0b41f492a14)
 
 ## Contact
 ![image](https://github.com/saloni-225/portfolio_my/assets/81464325/c22db6b7-1145-4068-b92b-369404fbba81)
